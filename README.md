@@ -17,12 +17,4 @@ Here’s how the app looks in action:
 
 ---
 
-## 🛠️ Getting Started
 
-If you want to try it locally:
-
-```bash
-git clone https://github.com/your-username/fintrack.git
-cd fintrack
-flutter pub get
-flutter run
