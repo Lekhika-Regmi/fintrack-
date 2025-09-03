@@ -9,13 +9,11 @@ It’s not a tutorial or a package — just a visual prototype to see how animat
 
 Here’s how the app looks in action:
 
-[//]: # (<!-- Option 1: If you convert mp4 -> gif -->)
+<!-- Option 1: If you convert mp4 -> gif -->
 
-[//]: # (![Fintrack Demo]&#40;assets/preview/fintrack_demo.gif&#41;)
+![Fintrack Demo](assets/video/fintrack.gif)
 
-[//]: # ()
-[//]: # (<!-- Option 2: If keeping the mp4 -->)
-[▶ Watch Demo Video](assets/video/fintrack_app.mp4)
+
 
 ---
 
